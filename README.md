@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![homesquare](https://cdn.midjourney.com/36f5e320-8c6e-40c3-821e-bfbe2b4e6fa9/0_0.png)
 <!--
 **mwufi/mwufi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
